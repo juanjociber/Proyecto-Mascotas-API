@@ -1,0 +1,213 @@
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\appsettings.Development.json
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\appsettings.json
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\BACKEND-CRUD.exe
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\BACKEND-CRUD.deps.json
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\BACKEND-CRUD.runtimeconfig.json
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\BACKEND-CRUD.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\BACKEND-CRUD.pdb
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\Humanizer.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.csproj.AssemblyReference.cache
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.AssemblyInfoInputs.cache
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.AssemblyInfo.cs
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.csproj.CoreCompileInputs.cache
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.MvcApplicationPartsAssemblyInfo.cs
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.BACKEND-CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.BACKEND-CRUD.props
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BACKEND-CRUD.props
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BACKEND-CRUD.props
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\obj\Debug\net6.0\staticwebassets.pack.json
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\obj\Debug\net6.0\staticwebassets.build.json
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\obj\Debug\net6.0\staticwebassets.development.json
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\obj\Debug\net6.0\scopedcss\bundle\BACKEND-CRUD.styles.css
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.csproj.CopyComplete
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\obj\Debug\net6.0\refint\BACKEND-CRUD.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.pdb
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.genruntimeconfig.cache
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\obj\Debug\net6.0\ref\BACKEND-CRUD.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\AutoMapper.dll
+D:\.NET\.NET_6\BACKEND-CRUD\BACKEND-CRUD\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\appsettings.Development.json
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\appsettings.json
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\BACKEND-CRUD.exe
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\BACKEND-CRUD.deps.json
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\BACKEND-CRUD.runtimeconfig.json
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\BACKEND-CRUD.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\BACKEND-CRUD.pdb
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\AutoMapper.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\Humanizer.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.csproj.AssemblyReference.cache
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.AssemblyInfoInputs.cache
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.AssemblyInfo.cs
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.csproj.CoreCompileInputs.cache
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.MvcApplicationPartsAssemblyInfo.cs
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.MvcApplicationPartsAssemblyInfo.cache
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\obj\Debug\net6.0\staticwebassets.build.json
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\obj\Debug\net6.0\staticwebassets.development.json
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.BACKEND-CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.BACKEND-CRUD.props
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BACKEND-CRUD.props
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BACKEND-CRUD.props
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\obj\Debug\net6.0\scopedcss\bundle\BACKEND-CRUD.styles.css
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-.AA846A58.Up2Date
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\obj\Debug\net6.0\refint\BACKEND-CRUD.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.pdb
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.genruntimeconfig.cache
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-Backend\BACKEND-CRUD\obj\Debug\net6.0\ref\BACKEND-CRUD.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\appsettings.Development.json
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\appsettings.json
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\BACKEND-CRUD.exe
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\BACKEND-CRUD.deps.json
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\BACKEND-CRUD.runtimeconfig.json
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\BACKEND-CRUD.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\BACKEND-CRUD.pdb
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\AutoMapper.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\Humanizer.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.csproj.AssemblyReference.cache
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.AssemblyInfoInputs.cache
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.AssemblyInfo.cs
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.csproj.CoreCompileInputs.cache
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.MvcApplicationPartsAssemblyInfo.cs
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.MvcApplicationPartsAssemblyInfo.cache
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\obj\Debug\net6.0\staticwebassets.build.json
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\obj\Debug\net6.0\staticwebassets.development.json
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.BACKEND-CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.BACKEND-CRUD.props
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BACKEND-CRUD.props
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BACKEND-CRUD.props
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\obj\Debug\net6.0\scopedcss\bundle\BACKEND-CRUD.styles.css
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-.AA846A58.Up2Date
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\obj\Debug\net6.0\refint\BACKEND-CRUD.dll
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.pdb
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\obj\Debug\net6.0\BACKEND-CRUD.genruntimeconfig.cache
+D:\MORRIS\PROYECTOS\.NET\.NET 6\Proyecto-Mascotas\Mascotas-API\BACKEND-CRUD\obj\Debug\net6.0\ref\BACKEND-CRUD.dll
